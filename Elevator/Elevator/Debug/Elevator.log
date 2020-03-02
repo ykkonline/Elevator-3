@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\tonbe\source\repos\Elevator\Elevator\main.c(66,40): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\tonbe\source\repos\Elevator\Elevator\main.c(24,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\tonbe\source\repos\Elevator\Elevator\main.c(43,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\tonbe\source\repos\Elevator\Elevator\main.c(154,26): warning C4047: 'function': 'Node *' differs in levels of indirection from 'int'
+C:\Users\tonbe\source\repos\Elevator\Elevator\main.c(154,26): warning C4024: 'ChangeFloor': different types for formal and actual parameter 1
+  Elevator.vcxproj -> C:\Users\tonbe\source\repos\Elevator\Debug\Elevator.exe
